@@ -1,0 +1,18 @@
+{
+  "output": "./../",
+  "locals": {
+    "url": "http://dev.ruchjow.pl",
+    "description": "Chcesz pomóc we wprowadzeniu 460JOW",
+    "keywords": [
+      "ruchJOW.pl","jow.pl","jow","ordynacja"
+    ]
+  },
+  "require": {
+    "_": "underscore",
+    "util": "util",
+    "marked": "marked"
+  },
+  "jade": {
+    "pretty": true
+  }
+} 
